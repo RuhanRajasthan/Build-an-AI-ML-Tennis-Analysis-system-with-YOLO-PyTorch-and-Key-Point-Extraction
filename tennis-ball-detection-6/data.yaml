@@ -1,6 +1,7 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+path: C:\Users\LENOVO\Documents\GitHub\Build-an-AI-ML-Tennis-Analysis-system-with-YOLO-PyTorch-and-Key-Point-Extraction\tennis-ball-detection-6
+train: train/images
+val: valid/images
+test: test/images
 
 nc: 1
 names: ['tennis ball']
